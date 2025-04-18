@@ -1,0 +1,47 @@
+================================================================================
+===[ UNIVERSIDADE PRESBITERIANA MACKENZIE                     ]=================
+===[ FACULDADE DE COMPUTAÇÃO E INFORMÁTICA                    ]=================
+===[ WTT2025 - WORKSHOP DE TENDÊNCIAS TECNOLÓGICAS            ]=================
+===[ OFICINA: DESENVOLVIMENTO DE JOGOS 2D COM A LINGUAGEM LUA ]=================
+===[ PALESTRANTE: ANDRÉ KISHIMOTO                             ]=================
+================================================================================
+
+===[ INSTRUÇÕES PARA ACOMPANHAR A OFICINA ]=====================================
+
+===[ EXTRAINDO AS FERRAMENTAS (LÖVE E ZEROBRANE STUDIO IDE) ]===================
+1 - Abrir o Windows Explorer.
+2 - Navegar no drive U: (Uso_Diario).
+3 - Acessar a pasta "_WTT2025_GAMEDEV_LUA_".
+4 - Dar duplo-clique no arquivo "config.cmd".
+5 - Clicar em "Executar".
+6 - Aguardar as ferramentas serem descompactadas em "C:\Temp\WTT2025".
+
+===[ SOBRE O MATERIAL DA OFICINA ]==============================================
+
+As ferramentas usadas na oficina (LÖVE e ZeroBrane Studio IDE) são gratuitas.
+Você pode copiar o conteúdo da pasta "U:\_WTT2025_GAMEDEV_LUA_", caso queira.
+
+===[ CRÉDITOS ]=================================================================
+
+- Conteúdo da apresentação (textos, imagens e códigos), áudio de teste e
+  códigos de exemplo
+  Copyright (c) 2025, André Kishimoto
+
+- Sprite da nave
+  Tiny Ships (FREE Spaceships)
+  https://fearless-design.itch.io/tiny-ships-free-spaceships
+
+- Fonte Press Start 2P
+  Copyright (c) 2011, Cody "CodeMan38" Boisclair (cody@zone38.net)
+  http://zone38.net/font
+
+- WTT 2025/FCI, Lua, PUC Rio, LÖVE, ZeroBrane Studio IDE
+  Imagens, fotos, logos e demais marcas autorais de terceiros citadas são de
+  propriedade de seus respectivos autores/detentores.
+
+- Referências (pasta "references")
+  - Learn Lua in 15 Minutes
+    Tyler Neylon
+
+  - Lua Reference v5.1
+    Enrico Colombini e Thomas Lauer
